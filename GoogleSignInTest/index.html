@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Google Auth Demo</title>
+  <meta name="google-signin-scope" content="profile email">
+  <meta name="google-signin-client_id" content="426161312000-ftlqcdd7k38fg3gja3u92o4lc8in5sj9.apps.googleusercontent.com">
+  <script src="https://apis.google.com/js/platform.js" async defer></script>
+</head>
+
+<body>
+  <h1>Sign-In/Out Demo</h1>
+
+  <div class="g-signin2" data-onsuccess="onSignIn"></div>
+    <script> src="Script/signIn.js"</script>
+    <a href="#" onclick="signOut();">Sign out</a>
+    <script> src="Script/signOut.js"</script>    
+</body>
+</html>
