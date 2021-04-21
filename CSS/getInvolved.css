@@ -16,5 +16,9 @@
     display: block;
     font-size: 25px;
     text-align: left;
-    left:300px
+    left:300px;
+    
+}
+.section a{
+    text-decoration: none;
 }
