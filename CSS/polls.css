@@ -1,0 +1,16 @@
+heading {
+    width: 100%;
+    font-size: 2em;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    text-align: center;
+    display: block;
+}
+entries {
+    width: 100%;
+    font-size: 24px;
+    text-align: center;
+    display: block;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}

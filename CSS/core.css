@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(197, 197, 209);
+}
+.topBar {
+    background-color: gray;
+    text-align: center;
+    position: relative;
+    width: 100%;
+    overflow: auto;
+}
+.topBar a{
+    text-decoration: none;
+    color: #f2f2f2;
+}
+.topBar h1{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 140px;
+    text-decoration: none;
+}
+.topBar login{
+    font-size: 14px;
+    float: right;
+    color: #f2f2f2;
+    text-align: top;
+    padding: 14px 32px;
+    text-decoration: none;
+}
+.topBar img{
+    float: left;
+    height: 100px;
+    width: 100px;
+    padding: 14px 14px;
+}

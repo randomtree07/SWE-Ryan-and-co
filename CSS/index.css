@@ -1,0 +1,14 @@
+.pageContents{
+    position: relative;
+    width: 100%;
+}
+.pageContents h1{
+    font-size: 50px;
+    text-align: center;
+    color: blue;
+}
+img{
+    width:100%;
+    height: auto;
+    position: relative;
+}
