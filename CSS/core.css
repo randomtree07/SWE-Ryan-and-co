@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(197, 197, 209);
+}
+.topBar {
+    background-color: gray;
+    position: static;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 50%;
+    overflow: auto;
+}
+.topBar a{
+    text-decoration: none;
+    font-size: auto;
+    color: #f2f2f2;
+}
+.topBar h1{
+    float: inline-start;
+    font-size: 2.5vw;
+    color: #f2f2f2;
+    text-align: justify;
+    padding-right: 5%;
+    padding-left: 5%;
+    text-decoration: none;
+}
+.topBar login{
+    float: right;
+    padding: 1vmin 2vmin;
+}
+.topBar img{
+    float: left;
+    max-height: 10%;
+    max-width: 5%;
+    padding: 1% 1% 1% 1%;
+}
